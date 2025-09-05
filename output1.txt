@@ -1,0 +1,149 @@
+Choice		Action
+------		------
+A		Add a Flight
+C		Cancel One Flight
+D		Display All Flights
+E		Display Flights by Airline
+F		Display Flights by Date
+O		Cancel Flights by Airline
+R		Cancel Flights by Date
+S		Search one Flight
+U		Delay a Flight
+V		Change a Flight Airline
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+Enter the flight information: 
+Enter airline code: 
+Enter flight num: 
+Enter departure date: 
+Flight: UA 717 on 08/25/2025 is added
+
+What action would you like to perform?
+
+Enter the flight information: 
+Enter airline code: 
+Enter flight num: 
+Enter departure date: 
+Flight: SW 2209 on 08/18/2025 is added
+
+What action would you like to perform?
+
+Enter the flight information: 
+Enter airline code: 
+Enter flight num: 
+Enter departure date: 
+Flight: AA 1905 on 08/25/2025 is added
+
+What action would you like to perform?
+AA   1905      08/25/2025  
+SW   2209      08/18/2025  
+UA   717       08/25/2025  
+
+Total # of flights: 3
+
+What action would you like to perform?
+
+Enter the flight information: 
+Enter airline code: 
+Enter flight num: 
+Enter departure date: 
+Flight: AA 338 on 08/25/2025 is added
+
+What action would you like to perform?
+
+Enter the flight information: 
+Enter airline code: 
+Enter flight num: 
+Enter departure date: 
+Flight: AA 2196 on 09/03/2025 is added
+
+What action would you like to perform?
+AA   338       08/25/2025  
+AA   1905      08/25/2025  
+AA   2196      09/03/2025  
+SW   2209      08/18/2025  
+UA   717       08/25/2025  
+
+Total # of flights: 5
+
+What action would you like to perform?
+
+Enter the flight information: 
+Enter airline code: 
+Enter flight num: 
+Enter departure date: 
+Flight: SW 2209 on 08/11/2025 is added
+
+What action would you like to perform?
+
+Enter the flight information: 
+Enter airline code: 
+Enter flight num: 
+Enter departure date: 
+Flight: UA 1892 on 09/09/2025 is added
+
+What action would you like to perform?
+AA   338       08/25/2025  
+AA   1905      08/25/2025  
+AA   2196      09/03/2025  
+SW   2209      08/11/2025  
+SW   2209      08/18/2025  
+UA   717       08/25/2025  
+UA   1892      09/09/2025  
+
+Total # of flights: 7
+
+What action would you like to perform?
+
+Which airline you want to display flights: 
+AA   338       08/25/2025  
+AA   1905      08/25/2025  
+AA   2196      09/03/2025  
+
+Total # of flights by AA is: 3
+
+What action would you like to perform?
+
+Which airline you want to display flights: 
+SW   2209      08/11/2025  
+SW   2209      08/18/2025  
+
+Total # of flights by SW is: 2
+
+What action would you like to perform?
+
+Which airline you want to display flights: 
+UA   717       08/25/2025  
+UA   1892      09/09/2025  
+
+Total # of flights by UA is: 2
+
+What action would you like to perform?
+
+Which date you want to display flights: 
+
+Total # of flights on 07/11/2025 is: 0
+
+What action would you like to perform?
+
+Which date you want to display flights: 
+SW   2209      08/11/2025  
+
+Total # of flights on 08/11/2025 is: 1
+
+What action would you like to perform?
+
+Which date you want to display flights: 
+AA   338       08/25/2025  
+AA   1905      08/25/2025  
+UA   717       08/25/2025  
+
+Total # of flights on 08/25/2025 is: 3
+
+What action would you like to perform?
+
+The number of deleted flights is: 7
